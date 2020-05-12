@@ -6,8 +6,9 @@ Description = "DevOpsDays João Pessoa 2020"
 +++
 
 
-<h2>O Devopsdays de João Pessoa que aconteceria no dia 06 de junho foi cancelado devido a pandemia do COVID-19.</h2>
-
+<h2>O Devopsdays de João Pessoa que aconteceria no dia 06 de junho, foi cancelado devido a pandemia do COVID-19.</h2>
+	
+Qualquer informação sobre reembolso, etc. Favor entrar em contato pelo email: joao-pessoa@devopsdays.org
 
 <!--<div class = "row">
   <div class = "col-md-2">
